@@ -7,3 +7,5 @@
 📫 How to reach me: On LinkedIn: @carlosjcastrog
 
 ✉️ You can send me a message through my website! ❤️
+
+[LinkedIn](https://www.linkedin.com/in/carlosjcastrog/))
