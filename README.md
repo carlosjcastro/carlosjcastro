@@ -1,4 +1,5 @@
 <h1>Carlos José Castro Galante</h1>
+<h2>I'm a Front-end Developer & Computer Science Student</h2>
 
 👋 Hi, I’m @carlosjcastro or @carlosjcastrog
 
