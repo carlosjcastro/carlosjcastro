@@ -19,10 +19,5 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 
-<styles>
-    .img-skills{
-        display: block;
-</styles>
-
 
 [LinkedIn](https://www.linkedin.com/in/carlosjcastrog/) 👨‍💻       [Website](https://carlosjcastrog.netlify.app/) 🔥       [Linktree](https://linktr.ee/carlosjcastrog) ☘️ 
