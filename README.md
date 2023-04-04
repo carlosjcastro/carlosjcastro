@@ -25,5 +25,7 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div>
 
+<h3>Contact Me</h3>
+<a href="https://carlosjcastrog.netlify.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 
 [LinkedIn](https://www.linkedin.com/in/carlosjcastrog/) 👨‍💻       [Website](https://carlosjcastrog.netlify.app/) 🔥       [Linktree](https://linktr.ee/carlosjcastrog) ☘️ 
