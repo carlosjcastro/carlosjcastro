@@ -1,5 +1,5 @@
 <h1>Carlos José Castro Galante</h1>
-<h2 styles="color:#00b4d8">I'm a Front-end Developer & Computer Science Student</h2>
+<h2>I'm a Front-end Developer & Computer Science Student</h2>
 <h3>💻 What Can I Work With?</h3>
 <div class="img-skills">
   <div class="technologies">
