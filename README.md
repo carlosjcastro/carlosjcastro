@@ -11,8 +11,4 @@
 
 ✉️ You can send me a message through my website! ❤️
 
-<h3> What Can I Work With? <h3>
-  <img href="[/](https://www.svgrepo.com/svg/452228/html-5)"/>
-
-
 [LinkedIn](https://www.linkedin.com/in/carlosjcastrog/) 👨‍💻       [Website](https://carlosjcastrog.netlify.app/) 🔥       [Linktree](https://linktr.ee/carlosjcastrog) ☘️ 
