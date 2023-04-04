@@ -11,4 +11,6 @@
 
 ✉️ You can send me a message through my website! ❤️
 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
 [LinkedIn](https://www.linkedin.com/in/carlosjcastrog/) 👨‍💻       [Website](https://carlosjcastrog.netlify.app/) 🔥       [Linktree](https://linktr.ee/carlosjcastrog) ☘️ 
