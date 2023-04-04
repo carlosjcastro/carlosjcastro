@@ -12,8 +12,7 @@
 ✉️ You can send me a message through my website! ❤️
 
 <h3> What Can I Work With? <h3>
-  <img href="![html5](https://user-images.githubusercontent.com/95695544/229660133-5b78ca9c-08a7-4736-abb3-dc3afd6426f5.svg)
-">
+  <img href="[/](https://www.svgrepo.com/svg/452228/html-5)">
 
 
 [LinkedIn](https://www.linkedin.com/in/carlosjcastrog/) 👨‍💻       [Website](https://carlosjcastrog.netlify.app/) 🔥       [Linktree](https://linktr.ee/carlosjcastrog) ☘️ 
