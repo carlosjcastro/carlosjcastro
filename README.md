@@ -11,4 +11,7 @@
 
 ✉️ You can send me a message through my website! ❤️
 
+<h3 style="color:#00b4d8"> What Can I Work With? <h3>
+
+
 [LinkedIn](https://www.linkedin.com/in/carlosjcastrog/) 👨‍💻       [Website](https://carlosjcastrog.netlify.app/) 🔥       [Linktree](https://linktr.ee/carlosjcastrog) ☘️ 
