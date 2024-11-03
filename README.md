@@ -29,7 +29,7 @@
 </div>
 
 <h3>📩 Contáctame/Contact Me</h3>
-<a href="[https://carlosjcastrog.netlify.app/](https://carlosjcastrog.netlify.app/)"><img src="https://img.shields.io/badge/sitio_web-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a href="https://carlosjcastrog.netlify.app"><img src="https://img.shields.io/badge/sitio_web-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 <a href="mailto:hi.carlosjcastrog@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linktr.ee/carlosjcastrog"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/carlosjcastrog"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
