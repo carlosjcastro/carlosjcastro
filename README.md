@@ -1,4 +1,4 @@
-<h1>Carlos José Castro Galante</h1>
+![image](https://github.com/user-attachments/assets/a9127758-5200-4c74-87ac-463ff76d9293)<h1>Carlos José Castro Galante</h1>
 <h2>👨‍💻 Front-end Developer, UI Developer, AI Engineer & Computer Science Student</h2>
 
 <h3>💻 ¿Con qué puedo trabajar?</h3>
@@ -29,8 +29,8 @@
 </div>
 
 <h3>📩 Contáctame/Contact Me</h3>
-<a href="https://cjcastrogalante.com"><img src="https://img.shields.io/badge/sitio_web-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-<a href="mailto:carlos@cjcastrogalante.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="[https://carlosjcastrog.netlify.app/](https://carlosjcastrog.netlify.app/)"><img src="https://img.shields.io/badge/sitio_web-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a href="mailto:hi.carlosjcastrog@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linktr.ee/carlosjcastrog"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/carlosjcastrog"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
