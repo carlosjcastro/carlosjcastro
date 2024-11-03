@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a9127758-5200-4c74-87ac-463ff76d9293)<h1>Carlos José Castro Galante</h1>
+<h1>Carlos José Castro Galante</h1>
 <h2>👨‍💻 Front-end Developer, UI Developer, AI Engineer & Computer Science Student</h2>
 
 <h3>💻 ¿Con qué puedo trabajar?</h3>
