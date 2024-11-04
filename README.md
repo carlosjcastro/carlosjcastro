@@ -36,4 +36,4 @@
 
 <hr>
 
-<p>🌟 Estoy comprometido con mi crecimiento profesional y siempre busco nuevas oportunidades para aprender y colaborar. Si estás interesado en trabajar conmigo o simplemente quieres charlar, ¡no dudes en contactarme!</p>
+<p>🌟 Estoy comprometido con mi crecimiento profesional y siempre busco nuevas oportunidades para aprender y colaborar. Si estás interesado en trabajar conmigo o simplemente quieres charlar sobre tus proyectos en mente, ¡no dudes en contactarme!</p>
