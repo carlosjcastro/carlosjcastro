@@ -13,10 +13,10 @@
 
 ## 🚀 About Me | Sobre mí  
 **[English]**  
-I'm a Full Stack Developer specialized in Frontend with experience in modern technologies like React, Tailwind, and TypeScript. Additionally, I have a strong background in Artificial Intelligence, certified as an Azure AI Engineer Associate. I am passionate about continuous learning, collaboration, and building exceptional digital experiences.  
+I'm a Full Stack Developer specialized in Frontend with experience in modern technologies like React, Tailwind, and JavaScript. Additionally, I have a strong background in Artificial Intelligence, certified as an Azure AI Engineer Associate. I am passionate about continuous learning, collaboration, and building exceptional digital experiences.  
 
 **[Español]**  
-Soy un desarrollador Full Stack especializado en Frontend con experiencia en tecnologías modernas como React, Tailwind y TypeScript. También cuento con una sólida formación en inteligencia artificial, certificado como Azure AI Engineer Associate. Me apasiona el aprendizaje continuo, la colaboración y la construcción de experiencias digitales excepcionales.  
+Soy un desarrollador Full Stack especializado en Frontend con experiencia en tecnologías modernas como React, Tailwind y JavaScript. También cuento con una sólida formación en inteligencia artificial, certificado como Azure AI Engineer Associate. Me apasiona el aprendizaje continuo, la colaboración y la construcción de experiencias digitales excepcionales.  
 
 ---
 
