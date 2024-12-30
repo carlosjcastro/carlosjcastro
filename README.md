@@ -1,39 +1,66 @@
-<h1>Carlos José Castro Galante</h1>
-<h2>👨‍💻 Front-end Developer, UI Developer, AI Engineer & Computer Science Student</h2>
+<img src="/GCJCG.png">
 
-<h3>💻 ¿Con qué puedo trabajar?</h3>
-<div class="img-skills">
-  <div class="technologies">
-    <p><em>Tecnologías/Technologies</em></p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
-  </div>
-  
-  <div class="tools">
-    <p><em>Herramientas/Tools</em></p>
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  </div>
-</div>
+# Carlos José Castro Galante 🌟  
+**Frontend Specialist | Full Stack Developer | AI Engineer | Computer Science Student**  
 
-<h3>📩 Contáctame/Contact Me</h3>
-<a href="https://carlosjcastrog.netlify.app"><img src="https://img.shields.io/badge/sitio_web-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-<a href="mailto:hi.carlosjcastrog@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linktr.ee/carlosjcastrog"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/carlosjcastrog"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+🎯 **Apasionado por el desarrollo web, la inteligencia artificial y la creación de soluciones innovadoras.**  
+🌐 **Freelancer disponible para colaborar en proyectos desafiantes y transformar ideas en realidad.**  
 
-<hr>
+🎯 **Passionate about web development, artificial intelligence, and creating innovative solutions.**  
+🌐 **Freelancer available to collaborate on challenging projects and bring ideas to life.**  
 
-<p>🌟 Estoy comprometido con mi crecimiento profesional y siempre busco nuevas oportunidades para aprender y colaborar. Si estás interesado en trabajar conmigo o simplemente quieres charlar sobre tus proyectos en mente, ¡no dudes en contactarme!</p>
+---
+
+## 🚀 About Me | Sobre mí  
+**[English]**  
+I'm a Full Stack Developer specialized in Frontend with experience in modern technologies like React, Tailwind, and TypeScript. Additionally, I have a strong background in Artificial Intelligence, certified as an Azure AI Engineer Associate. I am passionate about continuous learning, collaboration, and building exceptional digital experiences.  
+
+**[Español]**  
+Soy un desarrollador Full Stack especializado en Frontend con experiencia en tecnologías modernas como React, Tailwind y TypeScript. También cuento con una sólida formación en inteligencia artificial, certificado como Azure AI Engineer Associate. Me apasiona el aprendizaje continuo, la colaboración y la construcción de experiencias digitales excepcionales.  
+
+---
+
+## 🛠️ Skills & Technologies | Habilidades y Tecnologías  
+
+### **Frontend**  
+- 🌐 **HTML5 | CSS3 | JavaScript | TypeScript | React.js | Next.js | Tailwind CSS**  
+- 🎨 **UI/UX Design | Responsive Web Design | Styled Components | Material-UI**  
+
+### **Backend & AI | Backend y AI**  
+- ⚙️ **Python | Django | REST APIs | Azure AI Services | Machine Learning**  
+
+### **Tools & Platforms | Herramientas y Plataformas**  
+- 🔧 **Git | GitHub | Vercel | Netlify | Visual Studio Code | Notion | Slack | Trello**  
+- 💻 **Agile/Scrum | CI/CD**  
+
+---
+
+## 📈 My Work Ethos | Mi Ética de Trabajo  
+
+✨ **[English]** I always strive for excellence in every project.  
+🤝 **I believe in collaboration, communication, and delivering effective solutions.**  
+📚 **Committed to learning and continuous improvement.**  
+
+✨ **[Español]** Siempre busco la excelencia en cada proyecto.  
+🤝 **Creo en la colaboración, la comunicación y la entrega de soluciones efectivas.**  
+📚 **Comprometido con el aprendizaje y la mejora continua.**  
+
+---
+
+## 📬 Let's Connect | Conectemos  
+
+- 🔗 [**Website**](https://carlosjcastrog.netlify.app)  
+- 📧 [**Email**](mailto:hi.carlosjcastrog@gmail.com)  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/carlosjcastrog)  
+- 🌐 [**Linktree**](https://linktr.ee/carlosjcastrog)  
+
+---
+
+## 🌍 Open to Opportunities | Abierto a Oportunidades  
+
+**[English]**  
+I am looking to collaborate on innovative projects that challenge my creativity and skills. Let’s talk and create something amazing together!  
+
+**[Español]**  
+Estoy buscando colaborar en proyectos innovadores que desafíen mi creatividad y conocimientos. ¡Hablemos y creemos algo asombroso juntos!  
+
