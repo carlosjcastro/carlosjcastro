@@ -59,7 +59,7 @@ Soy un desarrollador Full Stack especializado en Frontend con experiencia en tec
 ## 🌍 Open to Opportunities | Abierto a Oportunidades  
 
 **[English]**  
-I am looking to collaborate on innovative projects that challenge my creativity and skills. Let’s talk and create something amazing together!  
+I'm looking to collaborate on innovative projects that challenge my creativity and skills. Let’s talk and create something amazing together!  
 
 **[Español]**  
 Estoy buscando colaborar en proyectos innovadores que desafíen mi creatividad y conocimientos. ¡Hablemos y creemos algo asombroso juntos!  
