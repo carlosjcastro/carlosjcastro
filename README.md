@@ -1,7 +1,7 @@
 <img src="/GCJCG.png">
 
 # Carlos José Castro Galante 🌟  
-**Frontend Specialist | Full Stack Developer | AI Engineer | Computer Science Student**  
+**Frontend Specialist | Jr. Full Stack Developer | AI Engineer | Computer Science Student**  
 
 🎯 **Apasionado por el desarrollo web, la inteligencia artificial y la creación de soluciones innovadoras.**  
 🌐 **Freelancer disponible para colaborar en proyectos desafiantes y transformar ideas en realidad.**  
