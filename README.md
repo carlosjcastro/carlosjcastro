@@ -83,7 +83,7 @@ Esta formación académica complementa mi perfil práctico con bases sólidas en
 ## 🌍 Connect | Conectemos
 
 📧 **carlosjcastrog.dev@gmail.com**  
-🔗 [Portafolio Web](https://carlosjcastrog)  
+🔗 [Portafolio Web](https://carlosjcastrog.com)  
 💼 [LinkedIn](https://linkedin.com/in/carlosjcastrog)  
 🌐 [Linktree](https://linktr.ee/carlosjcastrog)
 
