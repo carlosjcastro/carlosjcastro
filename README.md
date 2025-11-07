@@ -67,9 +67,6 @@ Aplicación para gestión personal de gastos y tareas, combinando un enfoque fun
 
 - 🤖 **Azure AI Engineer Associate (AI-102) – Microsoft / Código Facilito Bootcamp**
 
-- 🐍 **Digitalers Node.js – Educación IT (2025)**  
-  *Programación backend, asincronismo, control de errores, APIs y manipulación de datos en JavaScript.*
-
 📘 Actualmente cursando **Tecnicatura Universitaria en Diseño de Software (UNCA)**, con fuerte orientación en algoritmos, estructuras de datos, diseño lógico y programación estructurada.  
 Esta formación académica complementa mi perfil práctico con bases sólidas en resolución algorítmica, análisis de problemas y pensamiento computacional.
 
