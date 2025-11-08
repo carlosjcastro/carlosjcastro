@@ -63,12 +63,24 @@ Aplicación para gestión personal de gastos y tareas, combinando un enfoque fun
 ## 🎓 Academic & Certifications | Formación y Certificaciones
 
 - 🎓 **Certificación Avanzada Full Stack Developer – ITBA (306 hs)**  
-  *Desarrollo completo de un sistema de home banking (DuckBank) con metodologías ágiles y stack moderno.*
+  *Desarrollo completo de un sistema de home banking (DuckBank) con metodologías ágiles y stack moderno.*  
+  📅 *Agosto – Diciembre 2024*
 
-- 🤖 **Azure AI Engineer Associate (AI-102) – Microsoft / Código Facilito Bootcamp**
+- 🚀 **Participante de 'Innovation Challenge' Hackathon by Microsoft**  
+  *Desarrollo colaborativo de una solución basada en Azure AI, aplicando buenas prácticas de desarrollo ágil y enfoque en impacto social.*  
+  📅 *Mayo - Junio 2024*
 
-📘 Actualmente cursando **Tecnicatura Universitaria en Diseño de Software (UNCA)**, con fuerte orientación en algoritmos, estructuras de datos, diseño lógico y programación estructurada.  
-Esta formación académica complementa mi perfil práctico con bases sólidas en resolución algorítmica, análisis de problemas y pensamiento computacional.
+- 🤖 **Certificado como Azure AI Engineer Associate (AI-102) – Microsoft / Código Facilito Bootcamp**  
+  *Implementación de soluciones con servicios cognitivos de Azure, machine learning y visión por computadora.*  
+  📅 *Mayo 2024 ->*
+
+- 💡 **Colaborador en el Instituto de Informática – Universidad Nacional de San Juan (UNSJ)**  
+  *Colaboré con el profesor encargado en proyectos tecnológicos con React y Laravel para personas con discapacidades, mejorando la accesibilidad, el rendimiento y la experiencia del usuario.*
+  📅 *Agosto – Octubre 2023*
+
+📘 Actualmente cursando **Tecnicatura Universitaria en Diseño de Software (UNCA)**  
+Con fuerte orientación en **algoritmos, estructuras de datos, diseño lógico y programación estructurada**.  
+Esta formación académica complementa mi perfil práctico con bases sólidas en **resolución algorítmica, análisis de problemas y pensamiento computacional.**
 
 ---
 
