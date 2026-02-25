@@ -3,7 +3,7 @@
 ### Frontend-focused Full Stack Developer · AI/Software Enthusiast · Estudiante de Diseño de Software (UNCA)
 
 Desarrollador orientado a construir interfaces claras, sistemas útiles y soluciones con enfoque real en usuarios.  
-Trabajo principalmente con **React, Tailwind, TypeScript**, y también desarrollo funcionalidades backend/integraciones cuando el proyecto lo necesita.
+Trabajo principalmente con **React, Tailwind, JavaScript**, y también desarrollo funcionalidades backend/integraciones cuando el proyecto lo necesita.
 
 - 🇦🇷 Argentina
 - 💡 Interés en productos web, sistemas académicos, IA aplicada y automatización
