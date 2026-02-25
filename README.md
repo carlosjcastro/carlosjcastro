@@ -1,104 +1,169 @@
-# 👋 Carlos José Castro Galante 🌟
+# 👋 Hola, soy Carlos José Castro Galante
 
-**Frontend Specialist | Jr. Full Stack Developer | AI Engineer | Computer Science Student**
+### Frontend-focused Full Stack Developer · AI/Software Enthusiast · Estudiante de Diseño de Software (UNCA)
 
-🎯 Apasionado por el desarrollo web, la inteligencia artificial y la creación de soluciones innovadoras.  
-🌐 Freelancer disponible para colaborar en proyectos desafiantes y transformar ideas en realidad.  
-🇺🇸 Passionate about web development, artificial intelligence, and building meaningful digital experiences.  
+Desarrollador orientado a construir interfaces claras, sistemas útiles y soluciones con enfoque real en usuarios.  
+Trabajo principalmente con **React, Tailwind, TypeScript**, y también desarrollo funcionalidades backend/integraciones cuando el proyecto lo necesita.
 
----
-
-## 🚀 About Me | Sobre mí
-
-**[English]**  
-I'm a Full Stack Developer specialized in **Frontend** with experience in modern technologies like **React**, **Tailwind**, and **JavaScript**.  
-Additionally, I have a strong background in **Artificial Intelligence**, certified as an **Azure AI Engineer Associate (AI-102)**.  
-I’m passionate about **continuous learning**, teamwork, and developing efficient and elegant digital products.
-
-**[Español]**  
-Soy un desarrollador **Full Stack** especializado en **Frontend**, con experiencia en tecnologías modernas como **React**, **Tailwind** y **JavaScript**.  
-Cuento con una sólida formación en **inteligencia artificial**, certificado como **Azure AI Engineer Associate (AI-102)**.  
-Me apasiona el **aprendizaje continuo**, el trabajo en equipo y la creación de soluciones digitales con impacto real.
+- 🇦🇷 Argentina
+- 💡 Interés en productos web, sistemas académicos, IA aplicada y automatización
+- 🎯 Enfoque en código mantenible, UX y lógica de negocio
 
 ---
 
-## 🛠️ Skills & Technologies | Habilidades y Tecnologías
+## 🚀 Sobre mí
 
-### 🧩 Frontend
-- 🌐 **HTML5**, **CSS3**, **JavaScript (ES6+)**, **TypeScript**
-- ⚛️ **React.js**, **Next.js**, **Tailwind CSS**
-- 🎨 **UI/UX Design**, **Responsive Design**, **Styled Components**, **Material UI**
+Soy desarrollador **Full Stack con foco en Frontend**, con experiencia construyendo aplicaciones web modernas, responsivas y orientadas a resolución de problemas reales.
 
-### ⚙️ Backend & AI
-- 🐍 **Python**, **Django**, **Django REST Framework**
-- 🤖 **Azure AI Services**, **Machine Learning Fundamentals**
-- 🧠 **APIs RESTful**, **Data Processing**
+En mis proyectos trabajo con:
+- interfaces limpias y funcionales,
+- arquitectura modular,
+- manejo de estado y flujos de usuario,
+- integración con APIs/servicios,
+- y mejora continua de UX/UI sin romper lógica existente.
 
-### 🧰 Tools & Platforms
-- 🔧 **Git**, **GitHub**, **Vercel**, **Netlify**
-- 💻 **VSCode**, **Postman**, **Notion**, **Slack**, **Trello**
-- 🚀 **Agile / Scrum**, **CI/CD**
+También tengo formación en **IA aplicada con Azure (AI-102)** y me interesa combinar desarrollo web, automatización y herramientas inteligentes.
 
 ---
 
-## 💼 Projects | Proyectos Destacados
+## 🛠️ Stack principal
+
+### Frontend
+- **React.js**
+- **Vite**
+- **Next.js**
+- **JavaScript (ES6+)**
+- **TypeScript**
+- **Tailwind CSS**
+- **React Router**
+- **Framer Motion**
+- **Responsive UI / UX**
+
+### Backend / Datos / Integración
+- **Supabase**
+- **Node.js** (formación y proyectos)
+- **Django / Django REST Framework**
+- **REST APIs**
+- **PostgreSQL / SQL**
+
+### IA / Cloud (formación)
+- **Azure AI Services**
+- **Visión por computadora / servicios cognitivos**
+- **Fundamentos de ML aplicado**
+
+---
+
+## 💼 Proyectos destacados
+
+### 🎓 Sistema académico para gestión de Inglés (UNCA) *(proyecto real, en evolución)*
+Sistema web con enfoque institucional para gestión de inscripción, asistencia, comisiones, seguimiento de alumnos y trabajo por roles (**alumno / docente / admin**).
+
+**Qué incluye (entre otras cosas):**
+- autenticación y perfiles por rol
+- paneles específicos por usuario
+- asistencia con **QR**
+- historial y seguimiento académico
+- gestión de comisiones/cátedras
+- reportes y PDFs
+- mejoras de UX/UI responsiva y diseño funcional
+
+**Stack:** React, Vite, JavaScript, Tailwind, Supabase, PostgreSQL, Node.js, jsPDF, QR, React Router
+
+---
 
 ### 🏦 [DuckBank](https://github.com/carlosjcastro/duckbank)
-Sistema de home banking completo desarrollado con **React** y **Django**, que permite registro, inicio de sesión, transferencias, gestión de préstamos y más.  
-**Stack:** React, Django, Django REST Framework, SQL.  
-🧩 Implementa principios de programación orientada a objetos, manejo de datos estructurados y diseño de arquitecturas escalables.
+Sistema de home banking desarrollado con **React y Django**, con funcionalidades como:
+- registro/inicio de sesión,
+- transferencias,
+- gestión de préstamos,
+- operaciones bancarias y flujo de usuario completo.
 
-### 🛍️ [Catamarket](https://github.com/carlosjcastro/catamarket) | [Live Demo](https://catamarket.netlify.app/)
-Plataforma web para promover emprendedores locales, desarrollada únicamente con **HTML5**, **CSS3 (Tailwind)** y **JavaScript**.  
-Incluye filtrado por categorías, ordenamiento de precios, y sistema de descuentos y ofertas.  
-🌐 Proyecto orientado al desarrollo accesible y la optimización en front-end puro.  
-📘 Reúne conceptos clave de estructura de datos, manipulación de arrays, objetos, y lógica condicional aplicada a interfaces dinámicas.
+**Stack:** React, Django, Django REST Framework, SQL
+
+---
+
+### 🛍️ [Catamarket](https://github.com/carlosjcastro/catamarket) · [Demo](https://catamarket.netlify.app/)
+Plataforma web para visibilizar emprendedores locales.
+
+Incluye:
+- filtrado por categorías
+- ordenamiento
+- descuentos/ofertas
+- lógica de interfaz con JavaScript puro
+- enfoque en accesibilidad y rendimiento front-end
+
+**Stack:** HTML5, CSS3 (Tailwind), JavaScript
+
+---
+
+### 🍔 Truman Burger App *(proyecto de comercio local / en desarrollo)*
+Aplicación web para local gastronómico con catálogo, personalización de productos, carrito, confirmación de pedido y envío por WhatsApp.
+
+**Características trabajadas:**
+- productos por categorías
+- detalle de producto con presentaciones
+- carrito con resumen persistente
+- flujo de confirmación de pedido
+- integración con WhatsApp y medios de pago
+- UI responsive y optimización de experiencia móvil
+
+**Stack:** React, Vite, Tailwind, TypeScript
+
+---
 
 ### 💰 SpendTaskify *(en desarrollo)*
-Aplicación para gestión personal de gastos y tareas, combinando un enfoque funcional y modular con persistencia de datos.  
-💡 Foco en el diseño lógico, reutilización de funciones y manejo de eventos en front-end.
+App de gestión personal de **gastos y tareas**, con enfoque modular y lógica reutilizable.
 
 ---
 
-## 🎓 Academic & Certifications | Formación y Certificaciones
+## 🎓 Formación y certificaciones
 
-- 🎓 **Certificación Avanzada Full Stack Developer – ITBA (306 hs)**  
-  *Desarrollo completo de un sistema de home banking (DuckBank) con metodologías ágiles y stack moderno.*  
-  📅 *Agosto – Diciembre 2024*
+- **Tecnicatura Universitaria en Diseño de Software (UNCA)** *(en curso)*  
+  Formación en algoritmos, lógica, estructuras de datos y resolución de problemas.
 
-- 🚀 **Participante de 'Innovation Challenge' Hackathon by Microsoft**  
-  *Desarrollo colaborativo de una solución basada en Azure AI, aplicando buenas prácticas de desarrollo ágil y enfoque en impacto social.*  
-  📅 *Mayo - Junio 2024*
+- **Certificación Avanzada Full Stack Developer – ITBA (306 hs)**  
+  Desarrollo de sistema completo (incluyendo home banking) con enfoque práctico y metodologías ágiles.
 
-- 🤖 **Certificado como Azure AI Engineer Associate (AI-102) – Microsoft / Código Facilito Bootcamp**  
-  *Implementación de soluciones con servicios cognitivos de Azure, machine learning y visión por computadora.*  
-  📅 *Mayo 2024 ->*
+- **Bootcamp Intensivo Azure AI-102 – Código Facilito**  
+  Formación en servicios de IA de Azure (IA aplicada, servicios cognitivos, visión, integración de soluciones).
 
-- 💡 **Colaborador en el Instituto de Informática – Universidad Nacional de San Juan (UNSJ)**  
-  *Colaboré con el profesor encargado en proyectos tecnológicos con React y Laravel para personas con discapacidades, mejorando la accesibilidad, el rendimiento y la experiencia del usuario.*
-  📅 *Agosto – Octubre 2023*
+- **Curso de Node.js – EducaciónIT + Digitalers** *(finalizado)*  
+  Refuerzo de backend con JavaScript/Node.js y conceptos de desarrollo del lado del servidor.
 
-📘 Actualmente cursando **Tecnicatura Universitaria en Diseño de Software (UNCA)**  
-Con fuerte orientación en **algoritmos, estructuras de datos, diseño lógico y programación estructurada**.  
-Esta formación académica complementa mi perfil práctico con bases sólidas en **resolución algorítmica, análisis de problemas y pensamiento computacional.**
+- **Innovation Challenge (Hackathon) by Microsoft**  
+  Participación en desarrollo colaborativo con enfoque en soluciones tecnológicas e IA.
+
+- **Colaborador – Instituto de Informática (UNSJ)**  
+  Participación en proyectos con foco en accesibilidad y experiencia de usuario para personas con discapacidad.
 
 ---
 
-## 📈 My Work Ethos | Mi Filosofía de Trabajo
+## 🏆 Logros y enfoque profesional
 
-✨ Siempre busco la **excelencia técnica** y la **claridad en el código**.  
-🤝 Creo en la **colaboración** como la clave para construir software significativo.  
-📚 Me comprometo con el **aprendizaje constante** y la mejora continua.  
-
----
-
-## 🌍 Connect | Conectemos
-
-📧 **carlosjcastrog.dev@gmail.com**  
-🔗 [Portafolio Web](https://carlosjcastrog.com)  
-💼 [LinkedIn](https://linkedin.com/in/carlosjcastrog)  
-🌐 [Linktree](https://linktr.ee/carlosjcastrog)
+- Desarrollo de proyectos con **impacto real** (académico/comercial).
+- Propuesta funcional de sistema académico presentada a referentes institucionales para evaluación y posible escalamiento.
+- Fuerte orientación a mejorar productos existentes sin romper lógica ni flujos críticos.
+- Perfil técnico con combinación de **frontend sólido, pensamiento lógico y adaptación rápida**.
 
 ---
 
-⭐ *“Code with logic, build with purpose.”*
+## 📌 En qué estoy trabajando ahora
+
+- Mejoras de UX/UI y arquitectura en sistemas académicos
+- Paneles por roles (alumno/docente/admin)
+- Asistencia, reportes y flujos institucionales
+- Integraciones y optimización de interfaces responsivas
+- Evolución hacia proyectos reutilizables para nuevas materias/cátedras
+
+---
+
+## 🌐 Contacto
+
+- 📧 **carlosjcastrog.dev@gmail.com**
+- 🌍 **Portfolio:** [carlosjcastrog.com](https://carlosjcastrog.com)
+- 💼 **LinkedIn:** [linkedin.com/in/carlosjcastrog](https://linkedin.com/in/carlosjcastrog)
+- 🔗 **Linktree:** [linktr.ee/carlosjcastrog](https://linktr.ee/carlosjcastrog)
+
+---
+
+> “Code with logic, build with purpose.”
