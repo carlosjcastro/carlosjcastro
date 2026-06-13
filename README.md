@@ -1,80 +1,36 @@
-# 👋 Carlos José Castro Galante
+# Carlos José Castro Galante
 
-Full Stack Developer (Frontend-focused) | ITBA Certified | Microsoft Certified x3 | Azure AI Engineer
-Estudiante de Diseño de Software (UNCA) · Argentina 🇦🇷
+Software Design Student · National University of Catamarca, Argentina 🇦🇷  
+Full Stack Developer (Frontend-focused) · ITBA Certified · Microsoft Certified ×3 · Azure AI Engineer
 
-Desarrollo aplicaciones web modernas con foco en **UX, arquitectura clara y lógica de negocio**.  
-Trabajo principalmente con **React, Tailwind y JavaScript**, integrando backend y servicios cuando el proyecto lo requiere.
-
----
-
-## 🌐 Enlaces
-
-- Portfolio → https://carlosjcastrog.com  
-- LinkedIn → https://linkedin.com/in/carlosjcastrog  
-- Certificaciones → https://certificar.carlosjcastrog.com
+I build modern web applications focused on clear UX, clean architecture, and real-world impact.  
+Currently working with **React, TypeScript and Python**, integrating AI and cloud services where it matters.
 
 ---
 
-## 🚀 Proyectos
-
-### 🎓 Sistema académico (UNCA) *(en desarrollo)*
-Sistema institucional con roles (**alumno/docente/admin**), asistencia con QR, reportes y gestión académica.  
-**Stack:** React, Vite, Tailwind, Supabase, PostgreSQL, Node.js
+[Portfolio](https://carlosjcastrog.com) · [LinkedIn](https://linkedin.com/in/carlosjcastrog) · [Certifications](https://certificar.carlosjcastrog.com) · carlosjcastrog.dev@gmail.com
 
 ---
 
-### 🏦 DuckBank  
-https://github.com/carlosjcastro/duckbank  
-Home banking con autenticación, transferencias y préstamos.  
-**Stack:** React, Django, DRF, SQL
+## Projects
+
+**[FaroIQ](https://github.com/carlosjcastro/faroiq)** - [faroiq.vercel.app](https://faroiq.vercel.app)  
+9-agent AI pipeline for nonprofit community intelligence. Built for Microsoft Agents League 2026.  
+`Python` `FastAPI` `React` `Azure AI Foundry` `Microsoft 365`
+
+**[DuckBank](https://github.com/carlosjcastro/duckbank)**  
+Home banking with authentication, transfers and loans.  
+`React` `Django` `DRF` `PostgreSQL`
+
+**[Catamarket](https://github.com/carlosjcastro/catamarket)** - [catamarket.netlify.app](https://catamarket.netlify.app)  
+Marketplace platform for local entrepreneurs.  
+`HTML` `Tailwind` `JavaScript`
 
 ---
 
-### 🛍️ Catamarket  
-https://github.com/carlosjcastro/catamarket  
-https://catamarket.netlify.app/  
-Plataforma para emprendedores con filtros, ofertas y enfoque en frontend.  
-**Stack:** HTML, Tailwind, JavaScript
+## Stack
 
----
-
-### 🍔 Truman Burger App *(en desarrollo)*
-App de pedidos con carrito, personalización y envío por WhatsApp.  
-**Stack:** React, Vite, Tailwind, TypeScript
-
----
-
-## 🛠️ Stack
-
-**Frontend:** React · Next.js · Vite · Tailwind · TypeScript  
-**Backend:** Node.js · Django · REST APIs · PostgreSQL  
-**IA/Cloud:** Azure AI (AI-102)
-
----
-
-## 🎓 Formación
-
-- Tecnicatura en Diseño de Software - UNCA *(en curso)*  
-- Full Stack Developer - ITBA (306 hs)
-- Azure AI-102 - Código Facilito
-- Node.js - EducaciónIT & Digitalers
-- Software Developer - apx school
-
----
-
-## 📌 Enfoque
-
-- Interfaces claras y funcionales  
-- Código mantenible y escalable  
-- UX/UI sin romper lógica existente  
-- Aplicaciones con impacto real  
-
----
-
-## 📫 Contacto
-
-carlosjcastrog.dev@gmail.com  
+`React` `TypeScript` `Next.js` `Vite` `Tailwind` `Python` `Django` `Node.js` `PostgreSQL` `Azure AI`
 
 ---
 
