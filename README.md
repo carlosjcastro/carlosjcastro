@@ -1,7 +1,7 @@
 # Carlos José Castro Galante
 
 Software Design Student · National University of Catamarca, Argentina 🇦🇷  
-Full Stack Developer (Frontend-focused) · ITBA Certified · Microsoft Certified ×3 · Azure AI Engineer
+Full Stack Developer & Azure AI Engineer · ITBA Certified · Microsoft Certified ×3 · Microsoft Student Ambassador
 
 I build modern web applications focused on clear UX, clean architecture, and real-world impact.  
 Currently working with **React, TypeScript and Python**, integrating AI and cloud services where it matters.
