@@ -4,7 +4,7 @@
 
 # Carlos José Castro Galante
 
-Software Developer, Full Stack Developer y Azure AI Engineer radicado en Argentina.
+Software Developer y Azure AI Engineer radicado en Argentina.
 Certificado por Microsoft (AI-102 · AI-900 · AZ-900) y por el ITBA · Microsoft Student Ambassador 2026.
 Actualmente cursando Diseño de Software en la Universidad Nacional de Catamarca.
 
